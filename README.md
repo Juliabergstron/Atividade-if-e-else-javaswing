@@ -26,6 +26,6 @@ Nessa atividade criei algoritimos usando o Java Swing e o If/Else.
 
 # Código 6
 <img width="331" height="152" alt="image" src="https://github.com/user-attachments/assets/00867015-369b-4c05-b9f6-919526fddabd" />
-<img width="300" height="152" alt="image" src="https://github.com/user-attachments/assets/74f899dd-871a-4525-b55e-c35bfcb44d58" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/74f899dd-871a-4525-b55e-c35bfcb44d58" />
 
 
