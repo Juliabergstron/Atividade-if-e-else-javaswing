@@ -3,6 +3,7 @@
 Nessa atividade criei algoritimos usando o Java Swing e o If/Else.
 
 <img width="1396" height="263" alt="image" src="https://github.com/user-attachments/assets/fb5f791d-99e5-4a2c-90e3-92e73acb6618" />
+
 # Código 1
 <img width="430" height="153" alt="image" src="https://github.com/user-attachments/assets/b6739969-8c08-4634-8739-08da5899489e" />
 <img width="371" height="144" alt="image" src="https://github.com/user-attachments/assets/c5eddf0c-875d-41d3-8844-aff06b45220a" />
