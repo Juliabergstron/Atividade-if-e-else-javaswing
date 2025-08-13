@@ -8,6 +8,7 @@ Nessa atividade criei algoritimos usando o Java Swing e o If/Else.
 <img width="327" height="147" alt="image" src="https://github.com/user-attachments/assets/c8587a42-7e01-48dc-8525-5ca224928685" />
 <img width="337" height="138" alt="image" src="https://github.com/user-attachments/assets/838250cb-113f-44a9-81ce-f200ede9371f" />
 <img width="357" height="147" alt="image" src="https://github.com/user-attachments/assets/cc8e6d58-da9f-4704-a0f1-9c38467c4f91" />
+<img width="318" height="137" alt="image" src="https://github.com/user-attachments/assets/5f67522a-9d31-4016-bc4e-5df04572bd02" />
 <img width="380" height="141" alt="image" src="https://github.com/user-attachments/assets/8c24da74-d472-4f1b-ac7d-25f2352c2298" />
 <img width="311" height="143" alt="image" src="https://github.com/user-attachments/assets/9067c668-3dac-4f05-af19-452ddc99557f" />
 <img width="428" height="153" alt="image" src="https://github.com/user-attachments/assets/71194a41-4b42-4607-9a4a-c1c812b64f59" />
